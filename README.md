@@ -4,7 +4,7 @@
 I am a student in the **Department of Computer Science and Information Engineering** at **National Taipei University**.
 
 ### 🎓 Senior Project
-**Project Title:** Portable Real-Time Muscle Fatigue Quantification System Using AI and Near-Infrared Spectroscopy (NIRS)
+**Project Title:** Portable Real-Time Muscle Fatigue Quantification System Using AI and Near-Infrared Spectroscopy (NIRS)  
 **Description:** Developed a real-time muscle fatigue quantification system integrating a wearable NIRS sensor with deep learning models.
 
 ---
